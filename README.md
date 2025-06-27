@@ -1,126 +1,101 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=4D8BFF&center=true&vCenter=true&width=435&lines=Hello+World!+%F0%9F%91%8B;ALX+Backend+Engineering+Scholar;Python+%7C+API+%7C+Linux+Enthusiast;Building+Scalable+Systems" alt="Typing animation" />
-  
-  <h2>🚀 About Me</h2>
-  <p>
-    <em>
-      "I discovered software engineering through the transformative power of Python - from automating mundane tasks to building complex systems. 
-      Currently honing my backend development skills at <strong>ALX Africa</strong> through intensive project-based learning."
-    </em>
-  </p>
-  
-  <h3>🔥 Current Focus</h3>
-  <p>
-    Leveling up my skills in:
-    <br>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  </p>
-</div>
+<h1 align="center">Hi there 👋, I'm Gerard Ugwu</h1>
+<h3 align="center">🚀 Backend Developer | Python Enthusiast | ALX ProDev Learner</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gerardugwu&label=Profile%20views&color=0e75b6&style=flat" alt="gerardugwu" />
+</p>
 
 ---
 
-## 🛠️ Projects Showcase
+### 🧭 About Me
+
+<ul>
+  <li>💡 I’m currently a learner at <strong>ALX ProDev Backend</strong>, building strong foundations in backend software engineering.</li>
+  <li>🐍 I'm passionate about <strong>Python</strong> and love solving real-world problems through code.</li>
+  <li>🛠️ My current focus: <strong>Django, DRF, FastAPI, PostgreSQL, and system architecture</strong>.</li>
+  <li>💼 I’m actively seeking internship or junior backend roles to apply and grow my skills.</li>
+  <li>🤝 I’m open to collaborating on meaningful backend and full-stack projects.</li>
+</ul>
+
+---
+
+### 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+---
+
+### 📘 My Learning Journey
+
+<ul>
+  <li>✔️ ALX Projects: Command-line tools, web APIs, authentication systems, async tasks.</li>
+  <li>🧪 Practice: Building real-world clones and RESTful APIs from scratch using DRF and Django.</li>
+  <li>📚 Reading: <strong>Clean Code</strong> by Robert C. Martin, <em>Python Cookbook</em> by David Beazley.</li>
+</ul>
+
+---
+
+### 🔭 Featured Projects
 
 <table>
   <tr>
-    <td width="33%">
-      <h3 align="center">RESTful API Project</h3>
-      <div align="center">
-        <a href="#">
-          <img src="https://via.placeholder.com/300x200/1e3a8a/ffffff?text=API+Project" alt="API Project">
-        </a>
-        <p>Python | FastAPI | JWT Authentication</p>
-        <a href="#"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-      </div>
-    </td>
-    <td width="33%">
-      <h3 align="center">Database System</h3>
-      <div align="center">
-        <a href="#">
-          <img src="https://via.placeholder.com/300x200/0f766e/ffffff?text=DB+System" alt="Database System">
-        </a>
-        <p>PostgreSQL | SQLAlchemy | Python</p>
-        <a href="#"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-      </div>
-    </td>
-    <td width="33%">
-      <h3 align="center">DevOps Automation</h3>
-      <div align="center">
-        <a href="#">
-          <img src="https://via.placeholder.com/300x200/7c3aed/ffffff?text=DevOps" alt="DevOps">
-        </a>
-        <p>Docker | CI/CD | Bash Scripting</p>
-        <a href="#"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-      </div>
-    </td>
+    <td><strong>🏠 Airbnb Clone</strong></td>
+    <td><strong>🔗 <a href="https://github.com/gerardugwu/airbnb-clone-project">GitHub Repo</a></strong></td>
+  </tr>
+  <tr>
+    <td colspan="2">A backend-focused Airbnb clone built with Django, handling users, listings, and bookings with full API coverage.</td>
+  </tr>
+
+  <tr>
+    <td><strong>📚 Library Management API</strong></td>
+    <td><strong>🔗 <a href="https://github.com/gerardugwu/library_management">GitHub Repo</a></strong></td>
+  </tr>
+  <tr>
+    <td colspan="2">An advanced REST API for managing book inventories, users, and borrow transactions. Includes role-based access and Celery for notifications.</td>
+  </tr>
+
+  <tr>
+    <td><strong>📝 To-Do List API</strong></td>
+    <td><strong>🔗 <a href="https://github.com/gerardugwu/todo-api">GitHub Repo</a></strong></td>
+  </tr>
+  <tr>
+    <td colspan="2">CRUD API built with Django REST Framework. Features user authentication and project-based task management.</td>
   </tr>
 </table>
 
 ---
 
-## 📈 GitHub Analytics
+### 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=algolia&count_private=true&hide_border=true" alt="GitHub Stats">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=algolia&hide_border=true" alt="GitHub Streak">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=algolia&hide_border=true&langs_count=6" alt="Top Languages">
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gerardugwu&show_icons=true&theme=tokyonight&count_private=true" alt="Gerard's GitHub stats" />
+</p>
 
----
-
-## 🏆 Certifications & Achievements
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://via.placeholder.com/100/2563eb/ffffff?text=ALX" width="80" alt="ALX Certification">
-        <br>
-        <strong>ALX Backend Engineering</strong>
-        <br>
-        <em>In Progress</em>
-      </td>
-      <td align="center">
-        <img src="https://via.placeholder.com/100/059669/ffffff?text=PY" width="80" alt="Python Certification">
-        <br>
-        <strong>Python Specialist</strong>
-        <br>
-        <em>AWS | 2024</em>
-      </td>
-      <td align="center">
-        <img src="https://via.placeholder.com/100/d97706/ffffff?text=API" width="80" alt="API Certification">
-        <br>
-        <strong>REST API Design</strong>
-        <br>
-        <em>Google | 2023</em>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=gerardugwu&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="Gerard's GitHub streak" />
+</p>
 
 ---
 
-## 🤝 Connect With Me
+### 🌐 Connect With Me
 
-<div align="center">
-  <p>Let's collaborate on Python projects and backend challenges!</p>
-  
-  <a href="https://linkedin.com/in/YOUR_PROFILE">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/YOUR_HANDLE">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://alxafrica.com">
-    <img src="https://img.shields.io/badge/ALX_Portfolio-FF6C37?style=for-the-badge&logo=alx&logoColor=white" alt="ALX Portfolio">
-  </a>
-  
-  <p>⭐ Star my repositories if you find them interesting!</p>
-</div>
+<p align="center">
+  <a href="mailto:ugwugerard@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/gerardugwu/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/gerard_ugwu"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
+
+---
+
+> 🎯 *“I’m building the backend one project at a time — let’s connect and make something impactful together!”*
+
+---
+
