@@ -85,6 +85,23 @@
 
 ---
 
+### 🏅 Certificates
+
+<p align="center">
+  <!-- Example certificate image -->
+  <img src="certificates/alx_backend_certificate.png" alt="ALX Backend Certificate" width="500px"/>
+
+  <!-- You can duplicate this for more certificates -->
+  <!-- <img src="certificates/another_certificate.png" alt="Another Certificate" width="500px"/> -->
+</p>
+
+<p align="center">
+  <em>Click on a certificate to view full size or download.</em>
+</p>
+
+---
+
+
 ### 🌐 Connect With Me
 
 <p align="center">
