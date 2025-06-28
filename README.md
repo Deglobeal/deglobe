@@ -84,17 +84,34 @@
 ---
 
 ### 🏅 Certificates
+### 🏅 Certificates
+
+<div align="center">
+
+<!-- First Row -->
+<div>
+  <img src="https://github.com/Deglobeal/Deglobeal/assets/127201489/70-back-end-web-development-certificate-gerard-onyedikachi" alt="Back-End Web Development Certificate" height="200"/>
+  <img src="https://github.com/Deglobeal/Deglobeal/assets/127201489/52-professional-foundations-certificate-gerard-onyedikachi" alt="Professional Foundations Certificate" height="200"/>
+</div>
+
+<!-- Second Row -->
+<div style="margin-top: 20px">
+  <img src="https://github.com/Deglobeal/Deglobeal/assets/127201489/32ca0c8e-963e-442c-b453-59e2e54f2953" alt="SQL Intermediate Certificate" height="180"/>
+  <img src="https://github.com/Deglobeal/Deglobeal/assets/127201489/6f94b6ce-01f3-4166-a8ee-ff094123167a" alt="Responsive Web Design Certificate" height="180"/>
+  <img src="https://github.com/Deglobeal/Deglobeal/assets/127201489/306d8cce-2c43-4a55-8a69-3074a7e52c8e" alt="CSS Certificate" height="180"/>
+</div>
+
+<!-- Third Row -->
+<div style="margin-top: 20px">
+  <img src="https://github.com/Deglobeal/Deglobeal/assets/127201489/0e404813-79ad-4ddf-882a-fed87702bc58" alt="SQL Certificate" height="180"/>
+  <img src="https://github.com/Deglobeal/Deglobeal/assets/127201489/2b223bbc-24e5-4f41-904d-2dee066f8eb2" alt="PHP Certificate" height="180"/>
+  <img src="https://github.com/Deglobeal/Deglobeal/assets/127201489/c5bd6fe2-f26e-4141-a40b-9ad076e11f58" alt="HTML Certificate" height="180"/>
+</div>
+
+</div>
 
 <p align="center">
-  <!-- Example certificate image -->
-  <img src="certificates/alx_backend_certificate.png" alt="ALX Backend Certificate" width="500px"/>
-
-  <!-- You can duplicate this for more certificates -->
-  <!-- <img src="certificates/another_certificate.png" alt="Another Certificate" width="500px"/> -->
-</p>
-
-<p align="center">
-  <em>Click on a certificate to view full size or download.</em>
+  <em>Click on a certificate to view full size</em>
 </p>
 
 ---
