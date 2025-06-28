@@ -98,56 +98,25 @@
 </p>
 
 ---
- <div class="section">
-            <h1><span>My Skills</span></h1>
-            <ul>
-                <li>HTML <br />
-                    <progress min="0" max="100" value="100"></progress>
-                </li>
-                </li>
-                <li>CSS<br />
-                    <progress min="0" max="100" value="98"></progress>
-                </li>
-                <li>JAVASCRIPT<br />
-                    <progress min="0" max="100" value="80"></progress>
-                </li>
-                <li>TYPESCRIPT<br />
-                    <progress min="0" max="100" value="80"></progress>
-                </li>
-                </li>
-                <li>GIT<br />
-                    <progress min="0" max="100" value="95"></progress>
-                </li>
-                </li>
-                <li>PHP<br />
-                    <progress min="0" max="100" value="87"></progress>
-                </li>
-                </li>
-                <li>POSTGRES(SQL)<br />
-                    <progress min="0" max="100" value="90"></progress>
-                </li>
-                </li>
-                <li>MYSQL<br />
-                    <progress min="0" max="100" value="60"></progress>
-                </li>
-                </li>
-                <li>PYTHON<br />
-                    <progress min="0" max="100" value="30"></progress>
-                </li>
-                </li>
-                <li>NODE.JAVASCRIPT<br />
-                    <progress min="0" max="100" value="20"></progress>
-                </li>
-                </li>
-                <li>NEXT.JS<br />
-                    <progress min="0" max="100" value="10"></progress>
-                </li>
-                </li>
-                <li>DOCKER<br />
-                    <progress min="0" max="100" value="5"></progress>
-                </li>
-            </ul>
-        </div>
+  ---
+### 🛠️ My Skills
+
+Here's a quick overview of my technical proficiency:
+
+- **HTML** ████████████████████ 100%  
+- **CSS** ███████████████████▌ 98%  
+- **JavaScript** ███████████████░░░░ 80%  
+- **TypeScript** ███████████████░░░░ 80%  
+- **Git** ██████████████████▍ 95%  
+- **PHP** ████████████████▎ 87%  
+- **PostgreSQL** █████████████████▋ 90%  
+- **MySQL** ████████▌ 60%  
+- **Python** ███▊ 30%  
+- **Node.js** ██▏ 20%  
+- **Next.js** █ 10%  
+- **Docker** ▎ 5%  
+
+*Note: Visual representation shows relative proficiency*
 ---
 
 
