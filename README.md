@@ -5,7 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=gerardugwu&label=Profile%20views&color=0e75b6&style=flat" alt="gerardugwu" />
 </p>
 
----
+<hr>
+
+<div style="background-color: #f3f4f6; padding: 20px; border-radius: 10px">
 
 ### 🧭 About Me
 
@@ -17,11 +19,13 @@
   <li>🤝 I’m open to collaborating on meaningful backend and full-stack projects.</li>
 </ul>
 
+</div>
+
 ---
 
 ### 🛠️ Tech Stack
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
@@ -31,6 +35,8 @@
 
 ---
 
+<div style="background-color: #f3f4f6; padding: 20px; border-radius: 10px">
+
 ### 📘 My Learning Journey
 
 <ul>
@@ -38,6 +44,8 @@
   <li>🧪 Practice: Building real-world clones and RESTful APIs from scratch using DRF and Django.</li>
   <li>📚 Reading: <strong>Clean Code</strong> by Robert C. Martin, <em>Python Cookbook</em> by David Beazley.</li>
 </ul>
+
+</div>
 
 ---
 
@@ -81,29 +89,25 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Deglobeal&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="Gerard's GitHub streak" />
 </p>
 
+---
+
 ### 🏅 Certificates
 
-<div align="center">
+<div align="center" style="background-color: #f9fafb; padding: 15px; border-radius: 10px;">
 
-<!-- First Row -->
-<div>
-  <img src="https://raw.githubusercontent.com/Deglobeal/deglobe/main/certificates/70-back-end-web-development-certificate-gerard-onyedikachi.png" alt="Back-End Web Development Certificate" height="200"/>
-  <img src="https://raw.githubusercontent.com/Deglobeal/deglobe/main/certificates/52-professional-foundations-certificate-gerard-onyedikachi.png" alt="Professional Foundations Certificate" height="200"/>
-</div>
+<!-- Row 1 -->
+<img src="https://raw.githubusercontent.com/Deglobeal/deglobe/main/certificates/70-back-end-web-development-certificate-gerard-onyedikachi.png" height="180" />
+<img src="https://raw.githubusercontent.com/Deglobeal/deglobe/main/certificates/52-professional-foundations-certificate-gerard-onyedikachi.png" height="180" />
 
-<!-- Second Row -->
-<div style="margin-top: 20px">
-  <img src="https://raw.githubusercontent.com/Deglobeal/deglobe/main/certificates/32ca0c8e-963e-442c-b453-59e2e54f2953.png" alt="SQL Intermediate Certificate" height="180"/>
-  <img src="https://raw.githubusercontent.com/Deglobeal/deglobe/main/certificates/6f94b6ce-01f3-4166-a8ee-ff094123167a.png" alt="Responsive Web Design Certificate" height="180"/>
-  <img src="https://raw.githubusercontent.com/Deglobeal/deglobe/main/certificates/306d8cce-2c43-4a55-8a69-3074a7e52c8e.png" alt="CSS Certificate" height="180"/>
-</div>
+<!-- Row 2 -->
+<img src="https://raw.githubusercontent.com/Deglobeal/deglobe/main/certificates/32ca0c8e-963e-442c-b453-59e2e54f2953.png" height="180" />
+<img src="https://raw.githubusercontent.com/Deglobeal/deglobe/main/certificates/6f94b6ce-01f3-4166-a8ee-ff094123167a.png" height="180" />
+<img src="https://raw.githubusercontent.com/Deglobeal/deglobe/main/certificates/306d8cce-2c43-4a55-8a69-3074a7e52c8e.png" height="180" />
 
-<!-- Third Row -->
-<div style="margin-top: 20px">
-  <img src="https://raw.githubusercontent.com/Deglobeal/deglobe/main/certificates/0e404813-79ad-4ddf-882a-fed87702bc58.png" alt="SQL Certificate" height="180"/>
-  <img src="https://raw.githubusercontent.com/Deglobeal/deglobe/main/certificates/2b223bbc-24e5-4f41-904d-2dee066f8eb2.png" alt="PHP Certificate" height="180"/>
-  <img src="https://raw.githubusercontent.com/Deglobeal/deglobe/main/certificates/c5bd6fe2-f26e-4141-a40b-9ad076e11f58.png" alt="HTML Certificate" height="180"/>
-</div>
+<!-- Row 3 -->
+<img src="https://raw.githubusercontent.com/Deglobeal/deglobe/main/certificates/0e404813-79ad-4ddf-882a-fed87702bc58.png" height="180" />
+<img src="https://raw.githubusercontent.com/Deglobeal/deglobe/main/certificates/2b223bbc-24e5-4f41-904d-2dee066f8eb2.png" height="180" />
+<img src="https://raw.githubusercontent.com/Deglobeal/deglobe/main/certificates/c5bd6fe2-f26e-4141-a40b-9ad076e11f58.png" height="180" />
 
 </div>
 
@@ -133,8 +137,8 @@
 > 💡 *These bars represent my current comfort level. I grow with every project I build.*
 
 ---
-### 🌐 Connect With Me
 
+### 🌐 Connect With Me
 
 <p align="center">
   <a href="mailto:kachimaxy1@gmail.com">
@@ -152,15 +156,3 @@
 </p>
 
 > 🎯 *“I’m building the backend one project at a time — let’s connect and make something impactful together!”*
-
-
----
-
-
-
-
-
-
-
-
-
