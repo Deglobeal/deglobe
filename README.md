@@ -119,6 +119,32 @@
 > 💡 *These bars represent my current comfort level. I grow with every project I build.*
 
 ---
+---
+
+### 📬 Contact Me
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/yourimage/smiley-face.png" alt="smile emoji" width="100" />
+</p>
+
+<p align="center">
+  <a href="mailto:ugwugerard@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/gerardugwu/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/gerard_ugwu">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <em>Let's connect and build something amazing!</em>
+</p>
+
+---
+
 
 
 
