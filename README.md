@@ -119,16 +119,11 @@
 > 💡 *These bars represent my current comfort level. I grow with every project I build.*
 
 ---
----
+### 🌐 Connect With Me
 
-### 📬 Contact Me
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/yourimage/smiley-face.png" alt="smile emoji" width="100" />
-</p>
 
 <p align="center">
-  <a href="mailto:ugwugerard@gmail.com">
+  <a href="mailto:kachimaxy1@gmail.com">
     <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/gerardugwu/">
@@ -137,29 +132,21 @@
   <a href="https://twitter.com/gerard_ugwu">
     <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
+  <a href="https://wa.me/2347032388531" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 </p>
-
-<p align="center">
-  <em>Let's connect and build something amazing!</em>
-</p>
-
----
-
-
-
-
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="mailto:ugwugerard@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/gerardugwu/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/gerard_ugwu"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</p>
-
----
 
 > 🎯 *“I’m building the backend one project at a time — let’s connect and make something impactful together!”*
 
+
 ---
+
+
+
+
+
+
+
+
 
