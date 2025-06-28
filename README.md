@@ -99,61 +99,51 @@
 
 ---
 
-### 🛠️ My Skills
+<!-- My Skills Section -->
+<div align="center">
+  <h2><span style="color:#4CAF50;">🛠️ My Skills</span></h2>
+</div>
 
-<table>
-  <tr>
-    <td><strong>Python</strong></td>
-    <td>
-      <img src="https://progress-bar.dev/90/?title=Proficiency&color=green" alt="Python proficiency"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Django / DRF</strong></td>
-    <td>
-      <img src="https://progress-bar.dev/85/?title=Proficiency&color=green" alt="Django proficiency"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>PostgreSQL / MySQL</strong></td>
-    <td>
-      <img src="https://progress-bar.dev/80/?title=Proficiency&color=green" alt="DB proficiency"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Git & GitHub</strong></td>
-    <td>
-      <img src="https://progress-bar.dev/95/?title=Proficiency&color=blue" alt="Git proficiency"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>HTML / CSS</strong></td>
-    <td>
-      <img src="https://progress-bar.dev/90/?title=Proficiency&color=orange" alt="HTML CSS proficiency"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>JavaScript / TypeScript</strong></td>
-    <td>
-      <img src="https://progress-bar.dev/75/?title=Proficiency&color=yellow" alt="JavaScript proficiency"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Node.js / Next.js</strong></td>
-    <td>
-      <img src="https://progress-bar.dev/30/?title=Learning&color=lightgrey" alt="Node proficiency"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Docker</strong></td>
-    <td>
-      <img src="https://progress-bar.dev/25/?title=Learning&color=lightgrey" alt="Docker proficiency"/>
-    </td>
-  </tr>
-</table>
-
-> *Note: These bars represent my personal comfort and familiarity with each skill. I'm constantly improving!*
-
+<div style="max-width: 700px; margin: auto;">
+  <ul style="list-style: none; padding: 0; font-size: 16px;">
+    <li><strong>HTML</strong><br />
+      <progress value="100" max="100" style="width: 100%; height: 16px;"></progress>
+    </li><br />
+    <li><strong>CSS</strong><br />
+      <progress value="98" max="100" style="width: 100%; height: 16px;"></progress>
+    </li><br />
+    <li><strong>JavaScript</strong><br />
+      <progress value="80" max="100" style="width: 100%; height: 16px;"></progress>
+    </li><br />
+    <li><strong>TypeScript</strong><br />
+      <progress value="80" max="100" style="width: 100%; height: 16px;"></progress>
+    </li><br />
+    <li><strong>Git</strong><br />
+      <progress value="95" max="100" style="width: 100%; height: 16px;"></progress>
+    </li><br />
+    <li><strong>PHP</strong><br />
+      <progress value="87" max="100" style="width: 100%; height: 16px;"></progress>
+    </li><br />
+    <li><strong>PostgreSQL</strong><br />
+      <progress value="90" max="100" style="width: 100%; height: 16px;"></progress>
+    </li><br />
+    <li><strong>MySQL</strong><br />
+      <progress value="60" max="100" style="width: 100%; height: 16px;"></progress>
+    </li><br />
+    <li><strong>Python</strong><br />
+      <progress value="30" max="100" style="width: 100%; height: 16px;"></progress>
+    </li><br />
+    <li><strong>Node.js</strong><br />
+      <progress value="20" max="100" style="width: 100%; height: 16px;"></progress>
+    </li><br />
+    <li><strong>Next.js</strong><br />
+      <progress value="10" max="100" style="width: 100%; height: 16px;"></progress>
+    </li><br />
+    <li><strong>Docker</strong><br />
+      <progress value="5" max="100" style="width: 100%; height: 16px;"></progress>
+    </li>
+  </ul>
+</div>
 
 ---
 
