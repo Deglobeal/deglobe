@@ -26,9 +26,7 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 ---
@@ -99,6 +97,57 @@
   <em>Click on a certificate to view full size or download.</em>
 </p>
 
+---
+ <div class="section">
+            <h1><span>My Skills</span></h1>
+            <ul>
+                <li>HTML <br />
+                    <progress min="0" max="100" value="100"></progress>
+                </li>
+                </li>
+                <li>CSS<br />
+                    <progress min="0" max="100" value="98"></progress>
+                </li>
+                <li>JAVASCRIPT<br />
+                    <progress min="0" max="100" value="80"></progress>
+                </li>
+                <li>TYPESCRIPT<br />
+                    <progress min="0" max="100" value="80"></progress>
+                </li>
+                </li>
+                <li>GIT<br />
+                    <progress min="0" max="100" value="95"></progress>
+                </li>
+                </li>
+                <li>PHP<br />
+                    <progress min="0" max="100" value="87"></progress>
+                </li>
+                </li>
+                <li>POSTGRES(SQL)<br />
+                    <progress min="0" max="100" value="90"></progress>
+                </li>
+                </li>
+                <li>MYSQL<br />
+                    <progress min="0" max="100" value="60"></progress>
+                </li>
+                </li>
+                <li>PYTHON<br />
+                    <progress min="0" max="100" value="30"></progress>
+                </li>
+                </li>
+                <li>NODE.JAVASCRIPT<br />
+                    <progress min="0" max="100" value="20"></progress>
+                </li>
+                </li>
+                <li>NEXT.JS<br />
+                    <progress min="0" max="100" value="10"></progress>
+                </li>
+                </li>
+                <li>DOCKER<br />
+                    <progress min="0" max="100" value="5"></progress>
+                </li>
+            </ul>
+        </div>
 ---
 
 
