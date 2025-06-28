@@ -103,22 +103,23 @@
 
 | Skill         | Proficiency |
 |---------------|-------------|
-| **HTML**      | ![100%](https://progress-bar.dev/100/?width=200&title=HTML) |
-| **CSS**       | ![98%](https://progress-bar.dev/98/?width=200&title=CSS) |
-| **JavaScript**| ![80%](https://progress-bar.dev/80/?width=200&title=JavaScript) |
-| **TypeScript**| ![80%](https://progress-bar.dev/80/?width=200&title=TypeScript) |
-| **Git**       | ![95%](https://progress-bar.dev/95/?width=200&title=Git) |
-| **PHP**       | ![87%](https://progress-bar.dev/87/?width=200&title=PHP) |
-| **PostgreSQL**| ![90%](https://progress-bar.dev/90/?width=200&title=PostgreSQL) |
-| **MySQL**     | ![60%](https://progress-bar.dev/60/?width=200&title=MySQL) |
-| **Python**    | ![30%](https://progress-bar.dev/30/?width=200&title=Python) |
-| **Node.js**   | ![20%](https://progress-bar.dev/20/?width=200&title=Node.js) |
-| **Next.js**   | ![10%](https://progress-bar.dev/10/?width=200&title=Next.js) |
-| **Docker**    | ![5%](https://progress-bar.dev/5/?width=200&title=Docker) |
+| **HTML**      | ████████████████████ 100% |
+| **CSS**       | ███████████████████▌ 98% |
+| **JavaScript**| ███████████████░░░░ 80% |
+| **TypeScript**| ███████████████░░░░ 80% |
+| **Git**       | ██████████████████▍ 95% |
+| **PHP**       | ████████████████▎ 87% |
+| **PostgreSQL**| █████████████████▋ 90% |
+| **MySQL**     | ████████▌░░░░░░░░░░ 60% |
+| **Python**    | ██████░░░░░░░░░░░░░ 30% |
+| **Node.js**   | ██▏░░░░░░░░░░░░░░░░ 20% |
+| **Next.js**   | █░░░░░░░░░░░░░░░░░░ 10% |
+| **Docker**    | ▎░░░░░░░░░░░░░░░░░░ 5%  |
 
-> *Note: These levels reflect my comfort and usage frequency. I’m constantly growing!*
+> 💡 *These bars represent my current comfort level. I grow with every project I build.*
 
 ---
+
 
 
 
