@@ -99,53 +99,27 @@
 
 ---
 
-<!-- My Skills Section -->
-<div align="center">
-  <h2><span style="color:#4CAF50;">🛠️ My Skills</span></h2>
-</div>
+### 🛠️ My Skills
 
-<div style="max-width: 700px; margin: auto;">
-  <ul style="list-style: none; padding: 0; font-size: 16px;">
-    <li><strong>HTML</strong><br />
-      <progress value="100" max="100" style="width: 100%; height: 16px;"></progress>
-    </li><br />
-    <li><strong>CSS</strong><br />
-      <progress value="98" max="100" style="width: 100%; height: 16px;"></progress>
-    </li><br />
-    <li><strong>JavaScript</strong><br />
-      <progress value="80" max="100" style="width: 100%; height: 16px;"></progress>
-    </li><br />
-    <li><strong>TypeScript</strong><br />
-      <progress value="80" max="100" style="width: 100%; height: 16px;"></progress>
-    </li><br />
-    <li><strong>Git</strong><br />
-      <progress value="95" max="100" style="width: 100%; height: 16px;"></progress>
-    </li><br />
-    <li><strong>PHP</strong><br />
-      <progress value="87" max="100" style="width: 100%; height: 16px;"></progress>
-    </li><br />
-    <li><strong>PostgreSQL</strong><br />
-      <progress value="90" max="100" style="width: 100%; height: 16px;"></progress>
-    </li><br />
-    <li><strong>MySQL</strong><br />
-      <progress value="60" max="100" style="width: 100%; height: 16px;"></progress>
-    </li><br />
-    <li><strong>Python</strong><br />
-      <progress value="30" max="100" style="width: 100%; height: 16px;"></progress>
-    </li><br />
-    <li><strong>Node.js</strong><br />
-      <progress value="20" max="100" style="width: 100%; height: 16px;"></progress>
-    </li><br />
-    <li><strong>Next.js</strong><br />
-      <progress value="10" max="100" style="width: 100%; height: 16px;"></progress>
-    </li><br />
-    <li><strong>Docker</strong><br />
-      <progress value="5" max="100" style="width: 100%; height: 16px;"></progress>
-    </li>
-  </ul>
-</div>
+| Skill         | Proficiency |
+|---------------|-------------|
+| **HTML**      | ![100%](https://progress-bar.dev/100/?width=200&title=HTML) |
+| **CSS**       | ![98%](https://progress-bar.dev/98/?width=200&title=CSS) |
+| **JavaScript**| ![80%](https://progress-bar.dev/80/?width=200&title=JavaScript) |
+| **TypeScript**| ![80%](https://progress-bar.dev/80/?width=200&title=TypeScript) |
+| **Git**       | ![95%](https://progress-bar.dev/95/?width=200&title=Git) |
+| **PHP**       | ![87%](https://progress-bar.dev/87/?width=200&title=PHP) |
+| **PostgreSQL**| ![90%](https://progress-bar.dev/90/?width=200&title=PostgreSQL) |
+| **MySQL**     | ![60%](https://progress-bar.dev/60/?width=200&title=MySQL) |
+| **Python**    | ![30%](https://progress-bar.dev/30/?width=200&title=Python) |
+| **Node.js**   | ![20%](https://progress-bar.dev/20/?width=200&title=Node.js) |
+| **Next.js**   | ![10%](https://progress-bar.dev/10/?width=200&title=Next.js) |
+| **Docker**    | ![5%](https://progress-bar.dev/5/?width=200&title=Docker) |
+
+> *Note: These levels reflect my comfort and usage frequency. I’m constantly growing!*
 
 ---
+
 
 
 ### 🌐 Connect With Me
