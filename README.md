@@ -46,7 +46,7 @@
 <table>
   <tr>
     <td><strong>🏠 Airbnb Clone</strong></td>
-    <td><strong>🔗 <a href="https://github.com/gerardugwu/airbnb-clone-project">GitHub Repo</a></strong></td>
+    <td><strong>🔗 <a href="https://github.com/Deglobeal/airbnb-clone-project">GitHub Repo</a></strong></td>
   </tr>
   <tr>
     <td colspan="2">A backend-focused Airbnb clone built with Django, handling users, listings, and bookings with full API coverage.</td>
@@ -54,7 +54,7 @@
 
   <tr>
     <td><strong>📚 Library Management API</strong></td>
-    <td><strong>🔗 <a href="https://github.com/gerardugwu/library_management">GitHub Repo</a></strong></td>
+    <td><strong>🔗 <a href="https://github.com/Deglobeal/library_management">GitHub Repo</a></strong></td>
   </tr>
   <tr>
     <td colspan="2">An advanced REST API for managing book inventories, users, and borrow transactions. Includes role-based access and Celery for notifications.</td>
@@ -62,7 +62,7 @@
 
   <tr>
     <td><strong>📝 To-Do List API</strong></td>
-    <td><strong>🔗 <a href="https://github.com/gerardugwu/todo-api">GitHub Repo</a></strong></td>
+    <td><strong>🔗 <a href="https://github.com/Deglobeal/todo-api">GitHub Repo</a></strong></td>
   </tr>
   <tr>
     <td colspan="2">CRUD API built with Django REST Framework. Features user authentication and project-based task management.</td>
@@ -74,11 +74,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gerardugwu&show_icons=true&theme=tokyonight&count_private=true" alt="Gerard's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Deglobeal&show_icons=true&theme=tokyonight&count_private=true" alt="Gerard's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gerardugwu&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="Gerard's GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Deglobeal&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="Gerard's GitHub streak" />
 </p>
 
 ---
