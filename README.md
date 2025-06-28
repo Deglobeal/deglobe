@@ -81,37 +81,31 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Deglobeal&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="Gerard's GitHub streak" />
 </p>
 
----
 ### 🏅 Certificates
 
 <div align="center">
 
 <!-- First Row -->
 <div>
-  <img src="https://raw.githubusercontent.com/Deglobe/certificate/main/back-end-web-development-certificate-gerard-onyedikachi.png" alt="Back-End Web Development Certificate" height="200"/>
-  <img src="https://raw.githubusercontent.com/Deglobe/certificate/main/professional-foundations-certificate-gerard-onyedikachi.png" alt="Professional Foundations Certificate" height="200"/>
+  <img src="https://raw.githubusercontent.com/Deglobeal/deglobe/main/certificates/70-back-end-web-development-certificate-gerard-onyedikachi.png" alt="Back-End Web Development Certificate" height="200"/>
+  <img src="https://raw.githubusercontent.com/Deglobeal/deglobe/main/certificates/52-professional-foundations-certificate-gerard-onyedikachi.png" alt="Professional Foundations Certificate" height="200"/>
 </div>
 
 <!-- Second Row -->
 <div style="margin-top: 20px">
-  <img src="https://raw.githubusercontent.com/Deglobe/certificate/main/sql-intermediate-certificate.png" alt="SQL Intermediate Certificate" height="180"/>
-  <img src="https://raw.githubusercontent.com/Deglobe/certificate/main/responsive-web-design-certificate.png" alt="Responsive Web Design Certificate" height="180"/>
-  <img src="https://raw.githubusercontent.com/Deglobe/certificate/main/css-certificate.png" alt="CSS Certificate" height="180"/>
+  <img src="https://raw.githubusercontent.com/Deglobeal/deglobe/main/certificates/32ca0c8e-963e-442c-b453-59e2e54f2953.png" alt="SQL Intermediate Certificate" height="180"/>
+  <img src="https://raw.githubusercontent.com/Deglobeal/deglobe/main/certificates/6f94b6ce-01f3-4166-a8ee-ff094123167a.png" alt="Responsive Web Design Certificate" height="180"/>
+  <img src="https://raw.githubusercontent.com/Deglobeal/deglobe/main/certificates/306d8cce-2c43-4a55-8a69-3074a7e52c8e.png" alt="CSS Certificate" height="180"/>
 </div>
 
 <!-- Third Row -->
 <div style="margin-top: 20px">
-  <img src="https://raw.githubusercontent.com/Deglobe/certificate/main/sql-certificate.png" alt="SQL Certificate" height="180"/>
-  <img src="https://raw.githubusercontent.com/Deglobe/certificate/main/php-certificate.png" alt="PHP Certificate" height="180"/>
-  <img src="https://raw.githubusercontent.com/Deglobe/certificate/main/html-certificate.png" alt="HTML Certificate" height="180"/>
+  <img src="https://raw.githubusercontent.com/Deglobeal/deglobe/main/certificates/0e404813-79ad-4ddf-882a-fed87702bc58.png" alt="SQL Certificate" height="180"/>
+  <img src="https://raw.githubusercontent.com/Deglobeal/deglobe/main/certificates/2b223bbc-24e5-4f41-904d-2dee066f8eb2.png" alt="PHP Certificate" height="180"/>
+  <img src="https://raw.githubusercontent.com/Deglobeal/deglobe/main/certificates/c5bd6fe2-f26e-4141-a40b-9ad076e11f58.png" alt="HTML Certificate" height="180"/>
 </div>
 
 </div>
-
-<p align="center">
-  <em>Click on a certificate to view full size</em>
-</p>
-
 
 <p align="center">
   <em>Click on a certificate to view full size</em>
