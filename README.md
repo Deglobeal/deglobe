@@ -98,25 +98,63 @@
 </p>
 
 ---
-  ---
+
 ### 🛠️ My Skills
 
-Here's a quick overview of my technical proficiency:
+<table>
+  <tr>
+    <td><strong>Python</strong></td>
+    <td>
+      <img src="https://progress-bar.dev/90/?title=Proficiency&color=green" alt="Python proficiency"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Django / DRF</strong></td>
+    <td>
+      <img src="https://progress-bar.dev/85/?title=Proficiency&color=green" alt="Django proficiency"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>PostgreSQL / MySQL</strong></td>
+    <td>
+      <img src="https://progress-bar.dev/80/?title=Proficiency&color=green" alt="DB proficiency"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Git & GitHub</strong></td>
+    <td>
+      <img src="https://progress-bar.dev/95/?title=Proficiency&color=blue" alt="Git proficiency"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>HTML / CSS</strong></td>
+    <td>
+      <img src="https://progress-bar.dev/90/?title=Proficiency&color=orange" alt="HTML CSS proficiency"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>JavaScript / TypeScript</strong></td>
+    <td>
+      <img src="https://progress-bar.dev/75/?title=Proficiency&color=yellow" alt="JavaScript proficiency"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Node.js / Next.js</strong></td>
+    <td>
+      <img src="https://progress-bar.dev/30/?title=Learning&color=lightgrey" alt="Node proficiency"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Docker</strong></td>
+    <td>
+      <img src="https://progress-bar.dev/25/?title=Learning&color=lightgrey" alt="Docker proficiency"/>
+    </td>
+  </tr>
+</table>
 
-- **HTML** ████████████████████ 100%  
-- **CSS** ███████████████████▌ 98%  
-- **JavaScript** ███████████████░░░░ 80%  
-- **TypeScript** ███████████████░░░░ 80%  
-- **Git** ██████████████████▍ 95%  
-- **PHP** ████████████████▎ 87%  
-- **PostgreSQL** █████████████████▋ 90%  
-- **MySQL** ████████▌ 60%  
-- **Python** ███▊ 30%  
-- **Node.js** ██▏ 20%  
-- **Next.js** █ 10%  
-- **Docker** ▎ 5%  
+> *Note: These bars represent my personal comfort and familiarity with each skill. I'm constantly improving!*
 
-*Note: Visual representation shows relative proficiency*
+
 ---
 
 
