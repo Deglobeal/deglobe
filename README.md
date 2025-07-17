@@ -1,12 +1,19 @@
-<h1 align="center">Hi there 👋, I'm Gerard Ugwu</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=1000&color=1DA1F2&center=true&vCenter=true&width=800&lines=Hello+World+👋;I'm+Gerard+Ugwu+Onyedikachi;Backend+Developer+🚀;Python+Enthusiast+🐍;ALX+ProDev+Learner+📚" alt="Typing SVG" />
+</h1>
 <h3 align="center">🚀 Backend Developer | Python Enthusiast | ALX ProDev Learner</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gerardugwu&label=Profile%20views&color=0e75b6&style=flat" alt="gerardugwu" />
 </p>
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=1000&color=1DA1F2&center=true&vCenter=true&width=800&lines=Hello+World+👋;I'm+Gerard+Ugwu;Backend+Developer+🚀;Python+Enthusiast+🐍;ALX+ProDev+Learner+📚" alt="Typing SVG" />
-</h1>
+
+---
+<p align="center">
+  <a href="https://www.linkedin.com/in/gerardugwu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/gerard_ugwu"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="mailto:kachimaxy1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://wa.me/2347032388531"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+</p>
 ---
 
 ### 🧭 About Me
@@ -16,17 +23,6 @@
 - 🛠️ My current focus: **Django, DRF, FastAPI, PostgreSQL, and system architecture**.
 - 💼 I’m actively seeking internship or junior backend roles to apply and grow my skills.
 - 🤝 I’m open to collaborating on meaningful backend and full-stack projects.
-
----
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/gerardugwu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/gerard_ugwu"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="mailto:kachimaxy1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://wa.me/2347032388531"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-</p>
-
-
 
 ---
 
