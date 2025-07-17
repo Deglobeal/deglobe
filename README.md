@@ -31,6 +31,29 @@
 ---
 
 ## 👨‍💻 Professional Profile
+## 👨‍💻 Professional Profile
+
+```python
+class BackendDeveloper:
+    def __init__(self):
+        self.name = "Gerard Ugwu"
+        self.role = "Backend Developer"
+        self.current_learning = "ALX ProDev Backend"
+        self.focus = ["Django", "DRF", "FastAPI", "PostgreSQL", "System Architecture"]
+        self.status = "Actively seeking backend opportunities"
+        self.passions = [
+            "Solving complex problems", 
+            "Building scalable APIs", 
+            "Optimizing database performance"
+        ]
+
+    def get_quote(self):
+        return "Building the digital backbone, one endpoint at a time."
+
+me = BackendDeveloper()
+print(me.get_quote())
+
+---
 
 
 ### 🛠️ Tech Stack
