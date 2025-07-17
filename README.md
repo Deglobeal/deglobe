@@ -23,6 +23,55 @@
 
 ---
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=1000&color=1DA1F2&center=true&vCenter=true&width=800&lines=Hello+World+👋;I'm+Gerard+Ugwu;Backend+Developer+🚀;Python+Enthusiast+🐍;ALX+ProDev+Learner+📚" alt="Typing SVG" />
+</h1>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/gerardugwu/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/gerard_ugwu">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:kachimaxy1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://wa.me/2347032388531">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</div>
+
+<div align="center" style="margin: 20px 0;">
+  <img src="https://komarev.com/ghpvc/?username=gerardugwu&label=Profile+Views&color=1DA1F2&style=flat" alt="Profile Views" />
+</div>
+
+---
+
+## 🧭 Professional Profile
+
+```python
+class BackendDeveloper:
+    def __init__(self):
+        self.name = "Gerard Ugwu"
+        self.role = "Backend Developer"
+        self.current_learning = "ALX ProDev Backend"
+        self.focus = ["Django", "DRF", "FastAPI", "PostgreSQL", "System Architecture"]
+        self.status = "Actively seeking backend opportunities"
+        self.passions = [
+            "Solving complex problems", 
+            "Building scalable APIs", 
+            "Optimizing database performance"
+        ]
+        
+    def get_quote(self):
+        return "Building the digital backbone, one endpoint at a time."
+        
+me = BackendDeveloper()
+print(me.get_quote())
+
+---
+
 ### 🛠️ Tech Stack
 
 <p align="center">
@@ -122,8 +171,8 @@
 
 | Skill         | Proficiency |
 |---------------|-------------|
-| **HTML**      | ████████████████████ 95% |
-| **CSS**       | ███████████████████▌ 98% |
+| **HTML**      | ████████████████████ 85% |
+| **CSS**       | ███████████████████▌ 90% |
 | **JavaScript**| ███████████████░░░░  70% |
 | **TypeScript**| ███████████████░░░░  70% |
 | **Git**       | ██████████████████▍ 90% |
