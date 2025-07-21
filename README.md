@@ -118,22 +118,33 @@
 
 | Skill         | Proficiency |
 |---------------|-------------|
-| **HTML**      | ████████████████████ 85% |
-| **CSS**       | ███████████████████▌ 90% |
-| **JavaScript**| ███████████████░░░░  70% |
-| **TypeScript**| ███████████████░░░░  70% |
-| **Git**       | ██████████████████▍ 90% |
+| **HTML**      | ██████████████████░░ 80% |
+| **CSS**       | ████████████████░░░░ 80% |
+| **JavaScript**| ███████████░░░░░░░░░ 55% |
+| **TypeScript**| ███████████░░░░░░░░░ 55% |
+| **Git**       | ██████████████░░░░░░ 85% |
 | **PHP**       | ████████████████░░░░ 87% |
-| **PostgreSQL**| █████████████████░░░ 85% |
-| **MySQL**     | ████████████░░░░░░░░ 70% |
+| **PostgreSQL**| ██████████████░░░░░░ 85% |
+| **MySQL**     | ████████████░░░░░░░░ 65% |
 | **Python**    | ████████████░░░░░░░░ 70% |
 | **Node.js**   | ██▏░░░░░░░░░░░░░░░░ 20% |
-| **Next.js**   | █░░░░░░░░░░░░░░░░░░  20% |
+| **Next.js**   | █░░░░░░░░░░░░░░░░░░░ 20% |
 | **Docker**    | ▎░░░░░░░░░░░░░░░░░░  5% |
 
 > 💡 *These bars represent my current comfort level. I grow with every project I build.*
 
 ---
+
+| Soft Skill              | Description                                                                                                       |
+| ----------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| **Problem-Solving**     | Skilled at breaking down complex challenges and designing effective backend solutions.                            |
+| **Communication**       | Clear in documenting, explaining code, and collaborating across technical and non-technical teams.                |
+| **Teamwork**            | Comfortable working in agile teams, contributing to collective goals, and giving/receiving constructive feedback. |
+| **Adaptability**        | Quick to learn new technologies and adapt to changing project requirements.                                       |
+| **Attention to Detail** | Ensures clean, maintainable, and error-free code through thorough testing and review.                             |
+| **Time Management**     | Efficient in balancing learning, coding, and deadlines, especially in remote and async environments.              |
+
+----
 
 ### 🌐 Connect With Me
 
